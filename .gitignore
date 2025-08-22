@@ -1,0 +1,59 @@
+# Qt build files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+*.moc
+*.qrc
+*.user
+*.pro.user
+*.autosave
+*.qmlc
+*.jsc
+*.rcc
+*.app
+*.dSYM/
+
+# Qt Creator
+*.pro.user*
+*.qbs.user*
+*.creator.user*
+*.creator*
+*.autosave
+
+# Build directories
+build-*/
+Debug/
+Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Logs
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Python cache (if any scripts)
+__pycache__/
+
+# VSCode
+.vscode/
+
+# Misc
+*.orig
+*.rej

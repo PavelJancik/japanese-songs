@@ -1,0 +1,28 @@
+Mongol800,Chiisana Koi No Uta,Mongol800_ChiisanaKoiNoUta
+NICO Touches The Walls,Te Wo Tatake,NICOTouchesTheWalls_TeWoTatake
+Kyu Sakamoto,Ashitaga Arusa,KyuSakamoto_AshitagaArusa
+One Ok Rock,Chaosmyth,OneOkRock_Chaosmyth
+Spitz,Taimu Toraberu,Spitz_TaimuToraberu
+Kaela Kimura,Butterfly,KaelaKimura_Butterfly
+East End X Yuri,Da Yo Ne,EastEndXYuri_DaYoNe
+OneOkRock,Wherever You Are,OneOkRock_WhereverYouAre
+LiSA,Homura,LiSA_Homura
+The Blue Hearts,Jonetsu No Bara,TheBlueHearts_JonetsuNoBara
+Spitz,Kaede,Spitz_Kaede
+19,Ano Kami Hikouki Kumorizora Watte,19_AnoKamiHikoukiKumorizoraWatte
+Goo Goo Dolls,Iris,GooGooDolls_Iris
+Goose House,Manatsu No Mission,GooseHouse_ManatsuNoMission
+Goose House,Music Namidano Niji,GooseHouse_MusicNamidanoNiji
+Goose House,Otono Naru Houe,GooseHouse_OtonoNaruHoue
+Goose House,Sing,GooseHouse_Sing
+Hans Zimmer,Circle Of  Life,HansZimmer_CircleOfLife
+Hironobu Kageyama,Cha La Head Cha La,HironobuKageyama_ChaLaHeadChaLa
+Christophe Beck,Misete Anata O,ChristopheBeck_MiseteAnataO
+Moana,Watasi Wa Moana,Moana_WatasiWaMoana
+Sakanaction,Identity,Sakanaction_Identity
+Yoko Honna,Take Me Home Country Roads,YokoHonna_TakeMeHomeCountryRoads
+Yoko Kanno,Hana Wa Saku,YokoKanno_HanaWaSaku
+Yui,Life,Yui_Life
+Wakadanna,Inochi Sakura No Kioku,Wakadanna_InochiSakuraNoKioku
+AAA,Sayonara No Mae Ni,AAA_SayonaraNoMaeNi
+Ikimono Gakari,Blue Bird,IkimonoGakari_BlueBird
