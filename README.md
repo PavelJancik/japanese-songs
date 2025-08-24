@@ -1,7 +1,7 @@
 # Japanese Songs
 
 <p align="center">
-   <img src="/screenshot.png" alt="Japanese songs" width="400"/>
+   <img src="/screenshot.png" alt="Japanese songs"/>
 </p>
 
 A desktop application displaying selected Japanese songs lyrics with inbuild Kanji translator. Built with C++ and Qt.
